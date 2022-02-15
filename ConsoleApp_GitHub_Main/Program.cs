@@ -10,7 +10,7 @@ namespace ConsoleApp_GitHub_Main
     {
         static void Main(string[] args)
         {
-            var x = 100 / 2;
+            var x = 2 * 15;
             var res = "Tek";
             if (x % 2 == 0)
                 res = "Cut";
