@@ -12,6 +12,7 @@ namespace ConsoleApp_GitHub_Main
         {
             var x = 2 * 15;
             x -= 20;
+            x /= 2;
             var res = "Tek";
             if (x % 2 == 0)
                 res = "Cut";
